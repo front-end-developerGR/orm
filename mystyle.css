@@ -1,0 +1,118 @@
+body{
+background-color:rgb(21, 24, 24)
+
+}
+
+header {
+  color: #a49c9c;
+  padding: 20px;
+  margin-top: 15%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.big-font {
+  font-size: 48px;
+  margin: 20;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+li a {
+  display: block;
+  color: rgb(185, 181, 175);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color:rgb(14, 61, 63);
+}
+
+
+
+
+h1 {
+
+text-align: center;
+color:rgb(44, 138, 141);
+
+}
+
+
+h3 {
+text-align: center;
+color:rgb(185, 181, 175)
+}
+
+.black {color:aliceblue;
+
+
+}
+
+.diaxwristiko { background-color:darkslategray;
+}
+
+.checklist-table {
+  border-collapse: collapse;
+  margin: 20px auto;
+  max-width: 800px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.checklist-table tr:nth-child(1) {
+  background-color:rgb(14, 61, 63);
+}
+
+.checklist-table th,
+.checklist-table td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+
+}
+
+.checklist-table th {
+  background-color: #f2f2f2;
+  font-size: 18px;
+}
+
+.checklist-table td:last-child {
+  text-align: left;
+}
+
+.checklist-table input[type="checkbox"] {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.checklist-table label {
+  cursor: pointer;
+}
+
+.checklist-table tbody {
+color:#f2f2f2
+
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color:
+  color: rgb(185, 181, 175);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
